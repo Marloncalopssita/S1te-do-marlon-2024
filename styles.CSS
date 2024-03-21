@@ -1,8 +1,7 @@
-Chanset "UTF-8";
+@chanset "UTF-8";
 body{
+background-color: white;
+color: black;
+font-size: 12pt
+font-family: arial;
 }
-{backgrounds-color:white cor;black
-color:black; cor white;
-
-font-size: 12pt 
-font-family:Arial
