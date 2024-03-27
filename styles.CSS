@@ -1,7 +1,17 @@
-@chanset "UTF-8";
-body{
-background-color: white;
-color: black;
-font-size: 12pt
-font-family: arial;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Site</title>
+    <style>
+        h1 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Meu Título Centralizado</h1>
+    <p>Este é o meu primeiro site no GitHub.</p>
+</body>
+</html>
