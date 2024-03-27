@@ -9,58 +9,7 @@
 </head>
 <body>
 
-  <h1>Centralizar texto horizontalmente</h1>
-  <div class="container">
-    <p class="text-center">Centralizar um texto</p>
-  </div>
 
-  <h1>Centralizar blocos horizontalmente</h1>
-  <div class="container centralizado">
-    <div>centralizado</div>
-    <div>centralizado</div>
-    <div>centralizado</div>
-  </div>
-
-  <h1>Centralizar blocos horizontalmente com flex</h1>
-  <div class="container-flex">
-    <div>centralizado</div>
-    <div>centralizado</div>
-    <div>centralizado</div>
-  </div>
-
-  <h1>Centralizar textos em vários blocos</h1>
-  <nav>
-    <ul>
-      <li><a href="">Link 1</a></li>
-      <li><a href="">Link 2</a></li>
-      <li><a href="">Link 3</a></li>
-      <li><a href="">Link com texto maior</a></li>
-    </ul>
-  </nav>
-
-  <h1>Texto vertical com altura conhecida</h1>
-  <div class="container text-altura-conhecida">
-    Centralizado<br>ausd<br>ausd<br>ausd
-  </div>
-
-  <h1>Texto vertical com altura desconhecida</h1>
-  <div class="container text-altura-desconhecida">
-    <p>Centralizado<br>ausdausd<br>ausd<br>ausd</p>
-  </div>
-
-  <h1>Bloco vertical com altura conhecida</h1>
-  <div class="container position">
-    <div class="box-altura-conhecida">
-      Oi!!!
-    </div>
-  </div>
-
-  <h1>Bloco vertical com altura desconhecida</h1>
-  <div class="container position">
-    <div class="box-altura-desconhecida">
-      Oi!!!
-    </div>
-  </div>
 
 </body>
 </html>
