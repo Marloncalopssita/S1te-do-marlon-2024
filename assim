@@ -7,38 +7,32 @@
     <title></title>
 </head>
 <body>
-    <h1> Tudo sobre o Marlon.</h1>
+    <h1> ite do Agrinho.</h1>
     
-    <p> algumas informaçoes sobre min</p>
-    
-    <img src="bara01.png" alt="logo do barão">
-    <img src="BARAO2.jpg" alt="foto do Barão">
- <img src "
+    <p> Este site foi feito para ajudar o homen do campo nas atividades feudai</p>
     
     
-    <li> coisas que gosto: </li/>
+    <li> Dicas: </li/>
     
-        <li>Calopssitas</li>
-        <a href="eu sempre gostei de calopssits desde os meus 7 aninhos, la na casa da minha vo.
-        depois de brincar com a fifi eu fiquei apaixonado pelas calopssitas por serem animais tão lindos
-desde então meus pais me dão algumas d presente e e uma experiencia estremamente boa poder dar amor 
-e carinho para esse bixinhos tão apegados e carinhosos
-</a>
-    
-        <li>Jogos</li>
-        <a href="desde sempre em quase todo momento eu sempre estive com o celular na mão 
-eu sempre me interecei muito por jogos de celular eu não sei e como se eu consseguiçe ter uma 
-vida d que eu tenha controle, e um lugar que eu sei as coisas que tenho que fazer e como elas vão acontecer
-e como se fosse meu refugio dos ploblemas e das situações que eu não tenho controle"</a>
-    
-        <li>amigos</li>
-        <a href="quarta.html" target="_blank">Horário de quarta-feira dia 27/02</a>
+        <li>Dica 1:</li>
+        <a href=
+
+         </a>
+
+
+        <li>Dica 2</li>
+
+        <a href=
+
+        </a>
         
-        <li>estudos</li>
-        <a href="quinta.html" target="_blank">Horário de quinta-feira dia 27/02</a>
-        
-        <li>extras</li>
-        <a href="sexta.html" target="_blank">Horário de sexta-feira dia 27/02</a>
+        <li>Dica 3 </li>
+                <a href=</a>
+
+        <li>Dica 4 </li>
+        <a> 
+
+        </a>
         
     </ol>
     <h2> PARA VER TODOS OS ARQUIVOS</h2>
